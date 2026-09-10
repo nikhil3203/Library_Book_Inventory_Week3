@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "isbn": "9780134685991",
+    "publicationYear": 2018
+  },
+  {
+    "id": 102,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "publicationYear": 2008
+  },
+  {
+    "id": 103,
+    "title": "Nikhil Prajapati",
+    "author": "Java Programming",
+    "isbn": "2999393292",
+    "publicationYear": 2026
+  }
+]
