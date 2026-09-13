@@ -1,5 +1,11 @@
 target/
+build/
+dist/
+release/
 *.class
+*.jar
+*.log
 .idea/
 .vscode/
 *.iml
+library_data.json

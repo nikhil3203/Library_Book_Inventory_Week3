@@ -77,6 +77,8 @@ For comprehensive developer documentation including architecture, deployment, ex
 
 For the Week 4 refactoring report, see [Week4_Refactoring_Report.md](Week4_Refactoring_Report.md).
 
+For the Week 5 integration, deployment, and documentation report, see [Week5_Integration_Report.md](Week5_Integration_Report.md).
+
 ## Testing
 
 ```bash
